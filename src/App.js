@@ -13,14 +13,7 @@ function App() {
   return (
 
     <div>
-      {silentDevelopers.map((silentDeveloper,index) => (
-        
-        <p key={index}>
-          Developer name: {silentDeveloper.name} Tech used
-          {silentDeveloper.progLang} Experince years:
-          {silentDeveloper.experienceYears}
-        </p>
-      ))}
+    <h1>Hello</h1>
     </div>
   );
 }
