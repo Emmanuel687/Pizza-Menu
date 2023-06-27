@@ -60,11 +60,11 @@ const App = () => {
   //   }
 
   return (
-    <>
+    <div className="container">
       <Header />
       <Menu />
       <Footer />
-    </>
+    </div>
   );
 };
 
