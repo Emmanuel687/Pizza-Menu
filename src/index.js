@@ -60,6 +60,7 @@ const Pizza = () => {
     <div>
       <h1>Pizza</h1>
       <p>Tomato, mozarella, mushrooms, and onion</p>
+      <img src="pizzas/spinaci.jpg" />
     </div>
   );
 };
