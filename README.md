@@ -11,12 +11,14 @@ The project is a simple web application built with React that displays a list of
 # Installation
 
 1.Clone the repository: git clone https://github.com/Emmanuel687/Pizza-Menu.git
+
 2.Navigate to the project directory: cd Pizza-Menu
+
 3.Install dependencies: npm install
 Usage
+
 4.Start the development server: npm start
 Open your web browser and visit http://localhost:3000 to view the application.
-Project Structure
 
 # License
 
