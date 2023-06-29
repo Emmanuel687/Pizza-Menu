@@ -1,5 +1,7 @@
 # Project Name
+Pizza Menu
 
+# Project Objective
 This project was created as a practice exercise to learn and reinforce the concepts of React components, props, rendering lists, ternary operator, and && operator.
 
 # Project Overview
