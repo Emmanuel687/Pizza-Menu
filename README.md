@@ -22,4 +22,4 @@ Open your web browser and visit http://localhost:3000 to view the application.
 
 # License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License { 2023 }.
